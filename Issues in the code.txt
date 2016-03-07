@@ -1,0 +1,5 @@
+1. vAopt and vBopt
+2. D(va,r)
+3. Taking intersection 
+4. Discretization
+5. in passing velcoityX and velocityY in ORCA,all 50 samples are not passed
